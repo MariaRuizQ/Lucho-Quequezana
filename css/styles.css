@@ -1,0 +1,9 @@
+/*llamamos a la clase biografía*/
+.biografía{
+  width: 60%; /*decimos cuánto ancho deseo*/
+  display: inline-block; /*le damos un display para que no siga ocupando todo el espacio*/
+}
+.datos{
+  display: inline-block;
+  vertical-align: top; /*decimos dónde quedemos colocar esa clase*/
+}
